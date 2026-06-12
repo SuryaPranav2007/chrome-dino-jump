@@ -76,4 +76,4 @@ COOLDOWN_SEC   = 0.3    # Lower = faster response
 
 ## 👤 Author
 
-Your Name — [GitHub](https://github.com/suryapranav2007)
+Surya Pranav — [GitHub](https://github.com/suryapranav2007)
