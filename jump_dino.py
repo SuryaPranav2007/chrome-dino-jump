@@ -23,7 +23,6 @@ prev_shoulder_y  = None
 last_jump_time   = 0
 jump_triggered   = False
 
-print("Press Q to quit.")
 
 while cap.isOpened():
     ret, frame = cap.read()
@@ -57,7 +56,7 @@ while cap.isOpened():
                 pyautogui.press("space")
                 last_jump_time  = now
                 jump_triggered  = True
-                print(f"JUMP! delta={delta:.3f}")
+                
 
         prev_shoulder_y = shoulder_y
 
