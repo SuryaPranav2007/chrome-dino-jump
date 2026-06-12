@@ -27,7 +27,7 @@ cd chrome-dino-jump
 
 **2. Install dependencies**
 ```bash
-py -3.11 -m pip install opencv-python mediapipe==0.10.9 pyautogui
+py -3.11 -m pip install opencv-python==4.9.0.80 mediapipe==0.10.9 pyautogui==0.9.54
 ```
 ---
 
